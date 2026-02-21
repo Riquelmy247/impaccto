@@ -71,7 +71,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 pt-8 border-t border-primary-800 text-center text-primary-400 text-sm">
-          <p>© {new Date().getFullYear()} {siteData.nomeCompleto}. Desenvolvido por Riquelmy M.</p>
+          <p>© {new Date().getFullYear()} {siteData.nomeCompleto}. Todos os direitos reservados. Desenvolvido por @riquelmy_2612.</p>
         </div>
       </div>
     </footer>
